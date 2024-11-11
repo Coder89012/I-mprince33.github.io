@@ -27,9 +27,7 @@
 
         .nav-menu li {
             display: inline
-
-   </style>
-
+</style>
 </header>
 
    <header style="background-color: indigo; color #ffffff; padding: 30px; text-align: center;">
