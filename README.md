@@ -5,7 +5,8 @@
    <header style="background-color: no-color; color #ffffff; padding: 20px; text-align: center;">
    <body style="background-color: #299de6;">
 <head>
-    <style>
+   
+   <style>
       body {
       
         font-family: Arial, sans-serif;
@@ -37,8 +38,7 @@
             display: inline-flex;
             gap: 50px;
         }
-
-        .nav-menu li {
+.nav-menu li {
             display: inline;  
         }
         .nav-menu a {
@@ -51,14 +51,12 @@
             border-radius: 7px;
             transition: background-color 0.3s ease;
         }
-        
-        .profile-image {
+           .profile-image {
             width: 600px;
             height: 500px;
             border-radius: 50%;
             border: 10px solid #42a7f5;
         }
-
         .nav-menu a:hover {
             background-color: #299de6;
             text-decoration: underline;
@@ -76,8 +74,7 @@
             color: white;         
             text-align: center; 
             padding: 10px 0;      
-            
-        }
+             }
     </style>
 </head>
         <nav>
